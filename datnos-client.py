@@ -5,7 +5,7 @@ DatNos API test client
 @author    Christian Baumann cba@infinite-trust-digital.com
 @version   v0.4 2022/05/06
 
-A valid DatNos request looks like this: 
+A valid DatNoS request looks like this example (the data elements can be set to anything needed)
 {
    "keys":[
       "auto-capture-123",
